@@ -1,0 +1,1461 @@
+VERBS
+#1	"GO      "
+	= "ENTER   "
+	= "RUN     "
+	= "EXIT    "
+	= "LEAVE   "
+	= "WALK    "
+#2	"U       "
+	= "UP      "
+	= "CLIMB   "
+	= "ASCEND  "
+#3	"D       "
+	= "DOWN    "
+	= "DESCEND "
+#4	"OPEN    "
+#5	"CLOSE   "
+	= "SHUT    "
+#6	"UNLOCK  "
+	= "UNLATCH "
+#7	"N       "
+	= "NORTH   "
+#8	"S       "
+	= "SOUTH   "
+#9	"E       "
+	= "EAST    "
+#10	"W       "
+	= "WEST    "
+#11	"BREAK   "
+	= "TEAR    "
+	= "BUST    "
+#12	"MOVE    "
+	= "SLIDE   "
+	= "PUSH    "
+#13	"LOOK    "
+	= "EXAMINE "
+#14	"GET     "
+	= "TAKE    "
+	= "LIFT    "
+#15	"LIGHT   "
+	= "STRIKE  "
+#16	"POUR    "
+	= "DUMP    "
+#17	"DROP    "
+	= "SET     "
+	= "LEAVE   "
+#18	"JUMP    "
+	= "LEAP    "
+#19	"READ    "
+#20	"TALK    "
+	= "SPEAK   "
+#21	"KILL    "
+	= "SLAY    "
+#22	"EAT     "
+	= "CONSUME "
+#23	"WIPE    "
+	= "RUB     "
+	= "REMOVE  "
+#24	"FLUSH   "
+#25	"UNSCREW "
+	= "UNBOLT  "
+	= "LOOSEN  "
+#26	"WITH    "
+	= "USE     "
+	= "SHOOT   "
+	= "FIRE    "
+#27	"PRESS   "
+	= "PUSH    "
+#28	"TURN    "
+#29	"FAUCET  "
+	= "TAP     "
+	= "WATER   "
+#30	"WATER   "
+#31	"ON      "
+#32	"OFF     "
+#33	"UNLIGHT "
+	= "OFF     "
+#34	"SAVE    "
+	= "STORE   "
+#35	"RESTORE "
+#36	"QUIT    "
+	= "BYE     "
+	= "STOP    "
+#37	"HELP    "
+#38	"INVENTOR"
+	= "INVEN   "
+	= "CARRYING"
+	= "?       "
+#39	"FUCK    "
+	= "SUCK    "
+	= "SHIT    "
+	= "CUNT    "
+#40	"SCORE   "
+#41	"SLEEP   "
+	= "REST    "
+	= "RETIRE  "
+	= "LIE     "
+#42	"DRINK   "
+	= "SIP     "
+	= "TASTE   "
+#43	"DONE    "
+NOUNS
+#1	"DAISY   "
+	= "FLOWER  "
+#2	"BILL    "
+#3	"JOE     "
+#4	"SALLY   "
+#5	"SAM     "
+#6	"TOM     "
+#7	"DOCTOR  "
+	= "GREEN   "
+	= "DR.     "
+	= "DR.GREEN"
+#8	"DAGGER  "
+#9	"GUN     "
+	= "PISTOL  "
+#10	"NOTE    "
+	= "MEMO    "
+	= "LETTER  "
+	= "PAPER   "
+#11	"BLA     "
+	= "DOG     "
+#12	"DOG     "
+#13	"FOOD    "
+	= "BREAD   "
+#14	"LAST    "
+#15	"BODY    "
+	= "CORPSE  "
+	= "CADAVER "
+#16	"TRAPDOOR"
+#17	"KNIFE   "
+#18	"BOLTS   "
+	= "SCREWS  "
+#19	"BUTTERKN"
+#20	"PICTURE "
+	= "PORTRAIT"
+#21	"BUTTON  "
+	= "KNOB    "
+#22	"CRAWLSPA"
+#23	"STAIRS  "
+	= "STAIRWAY"
+	= "STEPS   "
+#24	"WALL    "
+	= "WALLS   "
+#25	"DOOR    "
+	= "DOORS   "
+	= "DOORWAY "
+#26	"TABLE   "
+	= "DESK    "
+#27	"DRAWERS "
+#28	"RUG     "
+	= "CARPET  "
+#29	"WATER   "
+	= "LIQUID  "
+#30	"TOILET  "
+	= "POTTY   "
+	= "JOHN    "
+#31	"TOWEL   "
+	= "CLOTH   "
+#32	"SHOWER  "
+#33	"SLEDGEHA"
+	= "HAMMER  "
+#34	"WINDOW  "
+#35	"BOXES   "
+	= "BOX     "
+#36	"TRUNK   "
+	= "CHEST   "
+#37	"FENCE   "
+#38	"CANDLE  "
+#39	"LAMP    "
+#40	"HOLE    "
+#41	"KEY     "
+#42	"SHELVES "
+	= "BOOKSHEL"
+#43	"FIREPLAC"
+	= "CHIMNEY "
+#44	"COUCH   "
+	= "SOFA    "
+	= "DAVENPOR"
+	= "DIVAN   "
+#45	"BED     "
+	= "MATTRESS"
+#46	"FLOOR   "
+#47	"ALGAE   "
+#48	"BRICKS  "
+	= "BRICK   "
+#49	"JEWELS  "
+	= "GEMS    "
+	= "TREASURE"
+	= "DIAMONDS"
+#50	"JARS    "
+	= "JAR     "
+	= "BOTTLE  "
+	= "BOTTLES "
+#51	"GATE    "
+#52	"TREE    "
+	= "TREES   "
+#53	"TELESCOP"
+#54	"PERSON  "
+	= "MAN     "
+	= "WOMAN   "
+	= "PEOPLE  "
+#55	"GRAVESTO"
+	= "TOMBSTON"
+#56	"CABINET "
+	= "CUPBOARD"
+#57	"MATCHES "
+	= "MATCH   "
+#58	"REFRIGER"
+	= "FRIDGE  "
+	= "ICEBOX  "
+	= "REFRIDGE"
+#59	"PITCHER "
+#60	"STOVE   "
+	= "RANGE   "
+#61	"PORCH   "
+#62	"GRAVES  "
+	= "GRAVE   "
+#63	"FAUCET  "
+	= "TAP     "
+#64	"ON      "
+#65	"OFF     "
+#66	"SINK    "
+	= "TUB     "
+#67	"CRADLE  "
+	= "CRIB    "
+#68	"CHAIR   "
+	= "ROCKER  "
+#69	"SHOVEL  "
+	= "SPADE   "
+#70	"        "
+#71	"ROOM    "
+	= "AROUND  "
+#72	"TUNNEL  "
+#73	"HOUSE   "
+	= "BUILDING"
+	= "HOME    "
+#74	"HALL    "
+	= "HALLWAY "
+	= "CORRIDOR"
+#75	"LADDER  "
+#76	"FIRE    "
+#77	"DOTS    "
+#78	"X'S     "
+#79	"WELCOME "
+#80	"LINE    "
+#81	"N       "
+	= "NORTH   "
+#82	"S       "
+	= "SOUTH   "
+#83	"E       "
+	= "EAST    "
+#84	"W       "
+	= "WEST    "
+#85	"U       "
+	= "UP      "
+#86	"D       "
+	= "DOWN    "
+#87	"BOOKS   "
+	= "BOOK    "
+#88	"GAME    "
+	= "ADVENTUR"
+#89	"DONE    "
+MESSAGES
+#1	"IT IS TOO HIGH"
+#2	"OK"
+#3	"IT IS SAM, THE MECHANIC.  HE HAS BEEN HIT IN THE HEAD BY A BLUNT OBJECT"
+#4	"IT IS TOO HEAVY"
+#5	"WINDOWS ARE BOARDED UP EXCEPT THE ATTIC WINDOW"
+#6	"YOU ARE IN THE FENCED BACK YARD.  THE FENCE FOLLOWS THE SIDE OF THE HOUSE TO THE NORTH.  THERE IS A DEAD BODY HERE"
+#7	"IT IS GETTING DARK"
+#8	"YOU ARE IN THE SIDE YARD.  YOU CAN FOLLOW THE FENCE TO THE SOUTH"
+#9	"YOU ARE IN THE KITCHEN.  THERE IS A REFRIGERATOR, STOVE AND CABINET"
+#10	"THE WALL IS BRICKED UP BEHIND IT"
+#11	"THE BRICKS BREAK APART LEAVING A LARGE HOLE"
+#12	"YOU HAVE NOTHING STRONG ENOUGH"
+#13	"WATER IS RUNNING INTO THE SINK"
+#14	"YOU HAVE NO CONTAINER"
+#15	"THERE IS NOTHING SPECIAL"
+#16	"THE STOVE EXPLODES, YOU ARE DEAD"
+#17	"THE PITCHER IS EMPTY"
+#18	"YOU CAN'T CLIMB THESE TREES"
+#19	"YOU ARE IN A FOREST"
+#20	"THERE IS A VERY TALL PINE TREE IN FRONT OF YOU"
+#21	"YOU ARE AT THE TOP OF A VERY TALL PINE TREE"
+#22	"YOU ARE LOOKING THROUGH THE ATTIC WINDOW.  YOU SEE A TRAPDOOR IN THE ATTIC CEILING"
+#23	"YOU HAD BETTER CLIMB DOWN FIRST"
+#24	"IT IS FASTENED DOWN"
+#25	"YOU ARE AT THE NORTH END OF A NARROW NORTH/SOUTH PASSAGEWAY"
+#26	"YOU ARE IN A SMALL PANTRY"
+#27	"IT DOES NOT REMOVE"
+#28	"YOU ARE IN A SMALL FENCED CEMETARY.  THERE ARE SIX NEWLY DUG GRAVES"
+#29	"THERE IS A MAN HERE"
+#30	"THERE IS A DEAD BODY HERE"
+#31	"THE WRITING IS WORN DOWN"
+#32	"IT IS JOE, THE GRAVEDIGGER.  HE HAS JUST FINISHED DIGGING THE SIX GRAVES"
+#33	"HE DOESN'T TALK MUCH"
+#34	"WITH WHAT?"
+#35	"YOUR GUN IS EMPTY"
+#36	"IT IS JOE, THE GRAVEDIGGER"
+#37	"I DON'T UNDERSTAND YOU"
+#38	"YOU FALL IN ONE AND JOE BURIES YOU.  YOU ARE DEAD"
+#39	"YOU FALL IN ONE AND CLIMB OUT AGAIN"
+#40	"JOE WON'T LET YOU"
+#41	"YOU ARE IN THE DINING ROOM"
+#42	"IT IS DARK, YOU CAN'T SEE"
+#43	"WOULD YOU LIKE TO PLAY AGAIN?"
+#44	"YOU TRIP OVER RUG AND FALL.  OH,OH, YOU STARTED A FIRE WITH YOUR CANDLE!"
+#45	"THE FIRE IS OUT"
+#46	"THE FIRE IS OUT OF CONTROL.  YOU ARE DEAD"
+#47	"THERE IS NO WICK"
+#48	"WHICH DIRECTION?"
+#49	"YOU ARE IN A MOIST BASEMENT. ALGAE COVERS THE WALLS. THERE IS A DEAD BODY HERE."
+#50	"IT IS TOO HARD"
+#51	"YOU HAVE NOTHING TO WIPE IT WITH"
+#52	"THE WALL IS EXPOSED.  THERE IS A LOOSE BRICK"
+#53	"YOU HAVE FOUND THE JEWELS!"
+#54	"IT IS TOM, THE PLUMBER.  HE SEEMS TO HAVE BEEN STABBED.  THERE IS A DAISY IN HIS HAND"
+#55	"THERE IS A SKELETON KEY HERE"
+#56	"IT IS LOOSE"
+#57	"THEY ARE JEWELS, ALL RIGHT!"
+#58	"YOU ARE AT THE SOUTH END OF A NORTH/SOUTH TUNNEL"
+#59	"IT IS VERY LONG"
+#60	"YOU ARE AT THE JUNCTION OF AN EAST/WEST HALLWAY AND A NORTH/SOUTH HALLWAY"
+#61	"WHERE?"
+#62	"THERE IS A DOORWAY HERE"
+#63	"YOU ARE AT A STAIRWAY"
+#64	"YOU ARE IN A BOYS BEDROOM"
+#65	"THERE IS WRITING ON IT"
+#66	"YOU ARE IN AN OLD NURSERY. THERE IS A DEAD BODY HERE."
+#67	"IT IS DR. GREEN.  IT APPEARS HE HAS BEEN STABBED"
+#68	"YOU ARE IN A LARGE BEDROOM"
+#69	"A DAGGER IS THROWN AT YOU FROM OUTSIDE THE ROOM.  IT MISSES!"
+#70	"YOU ARE IN A SMALL BEDROOM. THERE IS A DEAD BODY HERE."
+#71	"IT IS SALLY, THE SEAMSTRESS.  SHE HAS A LARGE LUMP ON HER HEAD.  THERE IS A BLOND HAIR ON HER DRESS"
+#72	"YOU ARE IN THE STUDY"
+#73	"ITS NICE BUT NOT EXACTLY MY CUP OF TEA. THANX FOR THE LOOK THOUGH."
+#74	"IT IS FASTENED TO THE WALL WITH FOUR BOLTS"
+#75	"THE PICTURE IS LOOSE"
+#76	"THERE IS A BUTTON ON THE WALL"
+#77	"PART OF THE WALL OPENS"
+#78	"YOU ARE IN THE ATTIC"
+#79	"YOU SEE A FOREST"
+#80	"WHAT TRAPDOOR?"
+#81	"YOU ARE IN A STORAGE ROOM"
+#82	"IT IS LOCKED"
+#83	"YOU HAVE NOTHING TO UNLOCK IT WITH"
+#84	"THERE IS ONE BULLET IN THE GUN"
+#85	"YOU ARE IN THE TOWER"
+#86	"DAISY WON'T LET YOU"
+#87	"SHE IS GOING TO KILL YOU"
+#88	"SHE IS DEAD"
+#89	"YOU KILLED DAISY"
+#90	"DAISY STABBED YOU.  YOU ARE DEAD"
+#91	"YOU ARE IN THE BATHROOM. THERE IS A DEAD BODY HERE."
+#92	"YOUR PITCHER IS FULL"
+#93	"IT IS BILL, THE BUTCHER. HE HAS BEEN STRANGLED WITH A PAIR OF PANTYHOSE"
+#94	"YOU ARE IN A MUSTY CRAWLSPACE"
+#95	"THE WALL CLOSES BEHIND YOU WITH A BANG"
+#96	"IT WON'T OPEN"
+#97	"YOU ARE ON A STAIRWAY"
+#98	"YOU ARE ON THE PORCH.  STONE STEPS LEAD DOWN TO THE FRONT YARD"
+#99	"YOU ARE IN THE FRONT YARD OF A LARGE ABANDONED VICTORIAN HOUSE.  STONE STEPS LEAD UP TO A WIDE PORCH"
+#100	"IT IS VERY HIGH"
+#101	"THERE IS A FOREST"
+#102	"YOU ARE IN AN ENTRY HALL.  DOORWAYS GO EAST, WEST AND SOUTH.  A STAIRWAY GOES UP"
+#103	"THE FRONT DOOR TO THE NORTH HAS BEEN CLOSED AND LOCKED"
+#104	"YOU ARE IN THE OLD, DUSTY LIBRARY"
+#105	"THERE ARE NOT MANY BOOKS LEFT"
+#106	"IT IS TOO FAR DOWN"
+#107	"THERE ARE MATCHES HERE"
+#108	"A BUTTERKNIFE"
+#109	"MATCHES"
+#110	"A NOTE"
+#111	"A SKELETON KEY"
+#112	"A SMALL KEY"
+#113	"A SHOVEL"
+#114	"A SLEDGEHAMMER"
+#115	"A LIT CANDLE"
+#116	"AN UNLIT CANDLE"
+#117	"A DAGGER"
+#118	"A GUN"
+#119	"A KNIFE"
+#120	"A PICTURE"
+#121	"A TOWEL"
+#122	"A BRICK"
+#123	"JEWELS"
+#124	"A CABINET"
+#125	"AN EMPTY PITCHER"
+#126	"A PITCHER FULL OF WATER"
+#127	"YOU DONT HAVE IT"
+#128	"THE DOOR IS CLOSED"
+#129	"IT IS OPEN"
+#130	"THE MATCH WENT OUT"
+#131	"I SEE NO WATER"
+#132	"YOU ARE NOT CARRYING IT"
+#133	"IT IS NOT OPEN"
+#134	"IT WONT CLOSE HERE"
+#135	"AN OPEN CABINET"
+#136	"IT IS UNLOCKED"
+#137	"YOU CANT GO IN THAT DIRECTION"
+#138	"IT'S TOO HEAVY TO LIFT"
+#139	"IT WON'T MOVE ANY FARTHER"
+#140	"THANK YOU FOR PLAYING HI-RES ADVENTURE ... GOOD-BYE"
+#141	"TRY GOING IN SOME DIRECTION EX:NORTH,SOUTH,EAST,WEST,UP,DOWN"
+#142	"THE DOOR HAS BEEN CLOSED AND LOCKED"
+#143	"THERE IS A BUTTERKNIFE HERE"
+#144	"THE KITCHEN DOOR IS CLOSED"
+#145	"I DONT KNOW WHAT YOU MEAN"
+#146	"I DONT SEE IT HERE"
+#147	"YOU FALL TO EARTH. LUCKILY YOU HAVE ONLY MINOR INJURIES."
+#148	"UNFORTUNATELY THE AMBULANCE DRIVER SMASHS INTO A VOLKWAGEN. NO SURVIVORS. YOU ARE DEAD."
+#149	"IF YOU FEEL THAT WAY I REFUSE TO PLAY WITH YOU..."
+#150	"YOU CLIMB UP BUMP YOUR HEAD ON THE CEILING AND FALL, DAZED BUT ALIVE."
+#151	"IT DOESNT MOVE"
+#152	"I DONT SEE IT HERE"
+#153	"I THINK I SEE A SLEDGEHAMMER HERE."
+#154	"YOU DON'T HAVE IT"
+#155	"YOU HAVE NOTHING TO LIGHT IT WITH"
+#156	"YOU GO IN THE HOLE BUT CANNOT CONTINUE AND HAVE TO RETURN."
+#157	"THANX. THAT FEELS EVER SO MUCH BETTER"
+#158	"THANK YOU. I LOVE TO FEEL CLEAN. THATS MUCH BETTER."
+#159	"I FEEL MUCH MORE RESTED NOW"
+#160	"YOUR GUN IS NOW EMPTY"
+#161	"DAISY IS NOW DEAD"
+#162	"THE KITCHEN DOOR IS OPEN"
+#163	"THE PEOPLE WERE EXPLAINED AT THE BEGINNING OF THE GAME."
+#164	"CONGRATULATIONS YOU HAVE BEATEN ADVENTURE AND ARE DECLARED A GURU WIZARD"
+#165	"IF ONLY I COULD TELL IF I'D BEEN HERE BEFORE..."
+#166	"DAISY IS ALREADY DEAD"
+#167	""
+OBJECTS
+#1	TOM at location 3, (x,y) = (41,61), picture 52
+#2	SAM at location 3, (x,y) = (66,63), picture 52
+#3	SALLY at location 3, (x,y) = (86,66), picture 54
+#4	DOCTOR at location 3, (x,y) = (114,66), picture 52
+#5	JOE at location 3, (x,y) = (132,67), picture 52
+#6	BILL at location 3, (x,y) = (153,67), picture 52
+#7	DAISY at location 3, (x,y) = (180,67), picture 54
+#8	DOOR at location 3, (x,y) = (108,150), picture 3
+#9	NOTE at location 3, (x,y) = (41,126), picture 4
+	"A NOTE"
+#10	CABINET at location 4, (x,y) = (3,77), picture 55
+	"A CABINET"
+#11	BRICKS at location 253, (x,y) = (13,82), picture 56
+#12	HOLE at location 253, (x,y) = (7,83), picture 57
+#13	MATCHES at location 4, (x,y) = (94,118), picture 6
+	"MATCHES"
+#14	PITCHER at location 4, (x,y) = (75,107), picture 58
+	"AN EMPTY PITCHER"
+#15	PITCHER at location 253, (x,y) = (0,0), picture 59
+	"A PITCHER FULL OF WATER"
+#16	BUTTERKN at location 4, (x,y) = (125,66), picture 60
+	"A BUTTERKNIFE"
+#17	NOTE at location 14, (x,y) = (61,79), picture 4
+	"A NOTE"
+#18	CANDLE at location 253, (x,y) = (0,0), picture 61
+	"A LIT CANDLE"
+#19	CANDLE at location 16, (x,y) = (102,75), picture 62
+	"AN UNLIT CANDLE"
+#20	FIRE at location 253, (x,y) = (81,92), picture 63
+#21	HOLE at location 253, (x,y) = (79,115), picture 64
+#22	KEY at location 16, (x,y) = (107,59), picture 65
+	"A SMALL KEY"
+#23	SAM at location 17, (x,y) = (125,89), picture 66
+#24	GRAVES at location 253, (x,y) = (100,59), picture 67
+#25	JOE at location 18, (x,y) = (6,83), picture 68
+#26	DOTS at location 18, (x,y) = (27,88), picture 69
+#27	X'S at location 253, (x,y) = (25,88), picture 70
+#28	SHOVEL at location 18, (x,y) = (49,97), picture 71
+	"A SHOVEL"
+#29	TOM at location 21, (x,y) = (36,63), picture 72
+#30	KEY at location 21, (x,y) = (175,83), picture 73
+	"A SKELETON KEY"
+#31	BRICKS at location 253, (x,y) = (162,27), picture 74
+	"A BRICK"
+#32	JEWELS at location 253, (x,y) = (162,27), picture 75
+	"JEWELS"
+#33	SALLY at location 28, (x,y) = (72,70), picture 76
+#34	DOCTOR at location 30, (x,y) = (97,62), picture 77
+#35	NOTE at location 32, (x,y) = (91,82), picture 4
+	"A NOTE"
+#36	PICTURE at location 35, (x,y) = (63,10), picture 79
+	"A PICTURE"
+#37	BUTTON at location 253, (x,y) = (103,27), picture 80
+#38	BILL at location 38, (x,y) = (69,66), picture 81
+#39	TOWEL at location 38, (x,y) = (127,24), picture 82
+	"A TOWEL"
+#40	TRAPDOOR at location 253, (x,y) = (200,45), picture 83
+#41	TRAPDOOR at location 253, (x,y) = (200,45), picture 84
+#42	SLEDGEHA at location 39, (x,y) = (102,124), picture 85
+	"A SLEDGEHAMMER"
+#43	TRUNK at location 40, (x,y) = (93,45), picture 86
+#44	TRUNK at location 253, (x,y) = (93,45), picture 87
+#45	GUN at location 40, (x,y) = (104,61), picture 88
+	"A GUN"
+#46	DAISY at location 41, (x,y) = (167,62), picture 89
+#47	DOTS at location 41, (x,y) = (203,65), picture 90
+#48	X'S at location 253, (x,y) = (201,65), picture 91
+#49	NOTE at location 41, (x,y) = (99,103), picture 4
+	"A NOTE"
+#50	WELCOME at location 2, (x,y) = (116,120), picture 2
+#51	REFRIGER at location 4, (x,y) = (155,17), picture 93
+#52	REFRIGER at location 253, (x,y) = (155,17), picture 94
+#53	DAGGER at location 26, (x,y) = (171,86), picture 95
+	"A DAGGER"
+#54	LINE at location 26, (x,y) = (73,35), picture 96
+ROOMS
+#0	???
+	picture = 0
+#1	"YOU ARE IN THE FRONT YARD OF A LARGE ABANDONED VICTORIAN HOUSE.  STONE STEPS LEAD UP TO A WIDE PORCH"
+	U 2 
+	picture = 3
+#2	"YOU ARE ON THE PORCH.  STONE STEPS LEAD DOWN TO THE FRONT YARD"
+	D 1 
+	picture = 1
+#3	"YOU ARE IN AN ENTRY HALL.  DOORWAYS GO EAST, WEST AND SOUTH.  A STAIRWAY GOES UP"
+	N 2 S 16 E 14 W 4 U 24 
+	picture = 53
+#4	"YOU ARE IN THE KITCHEN.  THERE IS A REFRIGERATOR, STOVE AND CABINET"
+	E 3 W 5 
+	picture = 13
+#5	"YOU ARE IN A FOREST"
+	N 12 S 10 E 6 W 8 U 4 
+	picture = 20
+#6	"YOU ARE IN A FOREST"
+	N 5 S 8 E 7 W 9 
+	picture = 20
+#7	"YOU ARE IN A FOREST"
+	N 6 S 7 E 8 W 10 
+	picture = 20
+#8	"YOU ARE IN A FOREST"
+	N 7 S 5 E 9 W 6 
+	picture = 20
+#9	"YOU ARE IN A FOREST"
+	N 8 E 10 W 6 
+	picture = 20
+#10	"YOU ARE IN A FOREST"
+	N 9 S 7 E 11 W 5 
+	picture = 20
+#11	"YOU ARE IN A FOREST"
+	N 10 E 12 
+	picture = 20
+#12	"YOU ARE IN A FOREST"
+	N 11 E 5 
+	picture = 20
+#13	"THERE IS A VERY TALL PINE TREE IN FRONT OF YOU"
+	U 23 D 9 
+	picture = 19
+#14	"YOU ARE IN THE OLD, DUSTY LIBRARY"
+	E 15 W 3 
+	picture = 6
+#15	"YOU ARE IN THE SIDE YARD.  YOU CAN FOLLOW THE FENCE TO THE SOUTH"
+	S 17 W 14 
+	picture = 9
+#16	"YOU ARE IN THE DINING ROOM"
+	N 3 S 17 
+	picture = 28
+#17	"YOU ARE IN THE FENCED BACK YARD.  THE FENCE FOLLOWS THE SIDE OF THE HOUSE TO THE NORTH.  THERE IS A DEAD BODY HERE"
+	N 15 
+	picture = 15
+#18	"YOU ARE IN A SMALL FENCED CEMETARY.  THERE ARE SIX NEWLY DUG GRAVES"
+	picture = 27
+#19	"YOU ARE IN A SMALL PANTRY"
+	D 20 
+	picture = 25
+#20	"YOU ARE AT THE NORTH END OF A NARROW NORTH/SOUTH PASSAGEWAY"
+	S 21 U 19 
+	picture = 23
+#21	"YOU ARE IN A MOIST BASEMENT. ALGAE COVERS THE WALLS. THERE IS A DEAD BODY HERE."
+	N 20 U 37 
+	picture = 30
+#22	"YOU ARE AT THE SOUTH END OF A NORTH/SOUTH TUNNEL"
+	N 13 
+	picture = 31
+#23	"YOU ARE AT THE TOP OF A VERY TALL PINE TREE"
+	D 13 
+	picture = 21
+#24	"YOU ARE AT THE JUNCTION OF AN EAST/WEST HALLWAY AND A NORTH/SOUTH HALLWAY"
+	N 33 E 25 W 29 D 3 
+	picture = 32
+#25	"THERE IS A DOORWAY HERE"
+	E 27 W 24 
+	picture = 33
+#26	"YOU ARE IN A LARGE BEDROOM"
+	picture = 38
+#27	"THERE IS A DOORWAY HERE"
+	W 25 
+	picture = 33
+#28	"YOU ARE IN A SMALL BEDROOM. THERE IS A DEAD BODY HERE."
+	picture = 39
+#29	"THERE IS A DOORWAY HERE"
+	E 24 W 31 
+	picture = 33
+#30	"YOU ARE IN AN OLD NURSERY. THERE IS A DEAD BODY HERE."
+	picture = 37
+#31	"THERE IS A DOORWAY HERE"
+	E 29 
+	picture = 33
+#32	"YOU ARE IN A BOYS BEDROOM"
+	picture = 35
+#33	"YOU ARE AT A STAIRWAY"
+	N 34 S 24 U 39 
+	picture = 34
+#34	"THERE IS A DOORWAY HERE"
+	S 33 
+	picture = 33
+#35	"YOU ARE IN THE STUDY"
+	N 34 E 38 
+	picture = 40
+#36	"YOU ARE IN A MUSTY CRAWLSPACE"
+	D 37 
+	picture = 46
+#37	"YOU ARE ON A STAIRWAY"
+	U 36 D 21 
+	picture = 47
+#38	"YOU ARE IN THE BATHROOM. THERE IS A DEAD BODY HERE."
+	picture = 45
+#39	"YOU ARE IN THE ATTIC"
+	D 33 
+	picture = 42
+#40	"YOU ARE IN A STORAGE ROOM"
+	picture = 43
+#41	"YOU ARE IN THE TOWER"
+	picture = 44
+HIGHPRI
+if ROOM = 1 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 2
+if ROOM = 1 and VERB = "U" and NOUN = "STAIRS" then
+	goto room 2
+if ROOM = 1 and VERB = "LOOK" and NOUN = "FENCE" then
+	print "IT IS VERY HIGH"
+if ROOM = 1 and VERB = "U" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 1 and VERB = "LOOK" and NOUN = "TREE" then
+	print "THERE IS A FOREST"
+if ROOM = 1 and VERB = "GO" and NOUN = "TREE" then
+	goto room 5
+if ROOM = 1 and VERB = "JUMP" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 2 and VERB = "OPEN" and NOUN = "DOOR" and VAR 12 = 1 then
+	print "IT IS OPEN"
+if ROOM = 2 and VERB = "OPEN" and NOUN = "DOOR" then
+	set room images to 2
+	VAR 12 = 1
+if ROOM = 2 and VERB = "CLOSE" and NOUN = "DOOR" and VAR 12 = 1 then
+	set room images to 1
+	VAR 12 = 0
+if ROOM = 2 and VERB = "CLOSE" and NOUN = "DOOR" and VAR 12 = 0 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 2 and VERB = "GO" and NOUN = "DOOR" and VAR 12 = 1 then
+	goto room 3
+	VAR 1 = 1
+	print "THE DOOR HAS BEEN CLOSED AND LOCKED"
+if ROOM = 2 and VERB = "GO" and NOUN = "DOOR" then
+	print "THE DOOR IS CLOSED"
+if ROOM = 2 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 1
+if ROOM = 3 and VERB = "LOOK" and NOUN = "PERSON" and CURPIC = 53 then
+	print "THE PEOPLE WERE EXPLAINED AT THE BEGINNING OF THE GAME."
+if ROOM = 3 and VERB = "GO" and NOUN = "DOOR" then
+	print "WHICH DIRECTION?"
+if ROOM = 3 and VERB = "GO" and NOUN = "STAIRS" and CURPIC = 53 then
+	set room images to 4
+	goto room 24
+if ROOM = 3 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 24
+if ROOM = 3 and VERB = "OPEN" and NOUN = "DOOR" and VAR 1 = 1 then
+	print "IT IS LOCKED"
+if ROOM = 3 and VERB = "OPEN" and NOUN = "DOOR" and VAR 1 = 0 then
+	set room images to 5
+if ROOM = 3 and VERB = "UNLOCK" and NOUN = "DOOR" and OBJECT "KEY" CARRIED then
+	VAR 1 = 0
+	print "OK"
+if ROOM = 3 and VERB = "UNLOCK" and NOUN = "DOOR" then
+	print "YOU HAVE NOTHING TO UNLOCK IT WITH"
+if ROOM = 3 and VERB = "BREAK" and NOUN = "DOOR" then
+	print "IT IS TOO HEAVY"
+if ROOM = 3 and VERB = "N" and NOUN = "" and CURPIC = 53 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 3 and VERB = "N" and NOUN = "" and CURPIC = 5 then
+	set room images to 4
+	goto room 2
+if ROOM = 3 and VERB = "N" and NOUN = "" and CURPIC = 4 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 3 and VERB = "E" and NOUN = "" and CURPIC = 53 then
+	set room images to 4
+	goto room 14
+if ROOM = 3 and VERB = "E" and NOUN = "" then
+	goto room 14
+if ROOM = 3 and VERB = "W" and NOUN = "" and CURPIC = 53 then
+	set room images to 4
+	goto room 4
+if ROOM = 3 and VERB = "W" and NOUN = "" then
+	goto room 4
+if ROOM = 3 and VERB = "S" and NOUN = "" and CURPIC = 53 then
+	set room images to 4
+	goto room 16
+if ROOM = 3 and VERB = "S" and NOUN = "" then
+	goto room 16
+if ROOM = 3 and VERB = "U" and NOUN = "STAIRS" then
+	goto room 24
+if ROOM = 3 and VERB = "U" and NOUN = "" then
+	set room images to 4
+	goto room 24
+if ROOM = 4 and VERB = "GET" and NOUN = "CABINET" then
+	print "IT'S TOO HEAVY TO LIFT"
+if ROOM = 4 and VERB = "MOVE" and NOUN = "CABINET" and VAR 13 = 1 then
+	print "IT WON'T MOVE ANY FARTHER"
+if ROOM = 4 and VERB = "MOVE" and NOUN = "CABINET" then
+	object CABINET (10) location = 4, (x,y) = (65,20)
+	object BRICKS (11) location = 4
+	VAR 13 = 1
+	print "THE WALL IS BRICKED UP BEHIND IT"
+if ROOM = 4 and VERB = "OPEN" and NOUN = "CABINET" then
+	object CABINET picture = 97
+if ROOM = 4 and VERB = "CLOSE" and NOUN = "CABINET" then
+	object CABINET picture = 55
+	restore room view
+if ROOM = 4 and VERB = "LOOK" and NOUN = "CABINET" and OBJECT "CABINET" PICTURE = 55 then
+	print "IT IS NOT OPEN"
+if ROOM = 4 and VERB = "LOOK" and NOUN = "CABINET" then
+	set temp room view to 12
+if ROOM = 4 and VERB = "BREAK" and NOUN = "WALL" and OBJECT "SLEDGEHA" CARRIED then
+	object BRICKS (11) location = 253
+	object HOLE (12) location = 4, (x,y) = (7,83)
+	print "THE BRICKS BREAK APART LEAVING A LARGE HOLE"
+if ROOM = 4 and VERB = "BREAK" and NOUN = "BRICKS" and OBJECT "SLEDGEHA" CARRIED then
+	object BRICKS (11) location = 253
+	object HOLE (12) location = 4, (x,y) = (7,83)
+	print "THE BRICKS BREAK APART LEAVING A LARGE HOLE"
+if ROOM = 4 and VERB = "BREAK" and NOUN = "WALL" then
+	print "YOU HAVE NOTHING STRONG ENOUGH"
+if ROOM = 4 and VERB = "OPEN" and NOUN = "REFRIGER" and OBJECT "REFRIGER" IN ROOM 4 then
+	object REFRIGER (51) location = 253
+	object REFRIGER (52) location = 4
+if ROOM = 4 and VERB = "OPEN" and NOUN = "REFRIGER" and OBJECT "REFRIGER" IN ROOM 4 then
+	print "IT IS OPEN"
+if ROOM = 4 and VERB = "CLOSE" and NOUN = "REFRIGER" and OBJECT "REFRIGER" IN ROOM 4 then
+	object REFRIGER (52) location = 253
+	object REFRIGER (51) location = 4
+	restore room view
+if ROOM = 4 and VERB = "CLOSE" and NOUN = "REFRIGER" and OBJECT "REFRIGER" IN ROOM 4 then
+	print "IT IS NOT OPEN"
+	restore room view
+if ROOM = 4 and VERB = "LOOK" and NOUN = "REFRIGER" and OBJECT "REFRIGER" IN ROOM 4 then
+	set temp room view to 11
+if ROOM = 4 and VERB = "LOOK" and NOUN = "REFRIGER" and OBJECT "REFRIGER" IN ROOM 4 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 4 and VERB = "FAUCET" and NOUN = "ON" then
+	print "WATER IS RUNNING INTO THE SINK"
+	VAR 4 = 1
+if ROOM = 4 and VERB = "GET" and NOUN = "WATER" and VAR 4 = 1 and OBJECT "PITCHER" CARRIED then
+	print "YOUR PITCHER IS FULL"
+	object PITCHER (14) location = 253
+	carry object PITCHER (15)
+if ROOM = 4 and VERB = "GET" and NOUN = "WATER" and VAR 4 = 1 then
+	print "YOU HAVE NO CONTAINER"
+if ROOM = 4 and VERB = "GET" and NOUN = "WATER" then
+	print "I SEE NO WATER"
+if ROOM = 4 and VERB = "LIGHT" and NOUN = "STOVE" then
+	print "THE STOVE EXPLODES, YOU ARE DEAD"
+	replay game
+if ROOM = 4 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 13 then
+	set room images to 14
+	VAR 14 = 1
+if ROOM = 4 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 14 then
+	print "IT IS OPEN"
+if ROOM = 4 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 14 then
+	set room images to 13
+	VAR 14 = 0
+if ROOM = 4 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 13 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 4 and VERB = "LOOK" and NOUN = "SINK" and OBJECT "BUTTERKN" IN ROOM 4 then
+	print "THERE IS A BUTTERKNIFE HERE"
+	set temp room view to 10
+if ROOM = 4 and VERB = "LOOK" and NOUN = "SINK" then
+	set temp room view to 10
+if ROOM = 4 and VERB = "GO" and NOUN = "HOLE" and OBJECT "HOLE" IN ROOM 4 then
+	goto room 19
+if ROOM = 4 and VERB = "FAUCET" and NOUN = "OFF" then
+	VAR 4 = 0
+	print "OK"
+if ROOM = 4 and VERB = "GO" and NOUN = "DOOR" then
+	print "WHICH DIRECTION?"
+if ROOM = 4 and VERB = "W" and NOUN = "" and CURPIC = 14 then
+	goto room 5
+if ROOM = 4 and VERB = "W" and NOUN = "" then
+	print "THE DOOR IS CLOSED"
+if ROOM = 5 and VERB = "U" and NOUN = "" and VAR 14 = 0 then
+	print "THE KITCHEN DOOR IS CLOSED"
+if ROOM = 5 and VERB = "U" and NOUN = "" then
+	goto room 4
+if ROOM = 13 and VERB = "LOOK" and NOUN = "TREE" then
+	print "THERE IS NOTHING SPECIAL"
+if ROOM = 5 and VERB = "OPEN" and NOUN = "DOOR" then
+	print "THE KITCHEN DOOR IS OPEN"
+	set room 4 images to 14
+	VAR 14 = 1
+if ROOM = 13 and VERB = "U" and NOUN = "TREE" then
+	goto room 23
+if ROOM = 14 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 6 then
+	set room images to 7
+	set room 15 images to 8
+if ROOM = 14 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 7 then
+	print "IT IS OPEN"
+if ROOM = 14 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 7 then
+	set room images to 6
+	set room 15 images to 9
+if ROOM = 14 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 6 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 14 and VERB = "GO" and NOUN = "DOOR" then
+	print "WHICH DIRECTION?"
+if ROOM = 14 and VERB = "E" and NOUN = "" and CURPIC = 7 then
+	goto room 15
+if ROOM = 14 and VERB = "E" and NOUN = "" and CURPIC = 6 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 14 and VERB = "W" and NOUN = "" then
+	goto room 3
+if ROOM = 14 and VERB = "LOOK" and NOUN = "SHELVES" then
+	print "THERE ARE NOT MANY BOOKS LEFT"
+if ROOM = 14 and VERB = "GET" and NOUN = "BOOKS" then
+	print "IT DOES NOT REMOVE"
+if ROOM = 14 and VERB = "GET" and NOUN = "COUCH" then
+	print "IT IS TOO HEAVY"
+if ROOM = 14 and VERB = "GET" and NOUN = "TABLE" then
+	print "IT IS TOO HEAVY"
+if ROOM = 14 and VERB = "GET" and NOUN = "CHAIR" then
+	print "IT IS TOO HEAVY"
+if ROOM = 15 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 9 then
+	set room images to 8
+	set room 14 images to 7
+if ROOM = 15 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 8 then
+	print "IT IS OPEN"
+if ROOM = 15 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 8 then
+	set room images to 9
+	set room 14 images to 6
+if ROOM = 15 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 9 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 15 and VERB = "GO" and NOUN = "DOOR" and CURPIC = 8 then
+	goto room 14
+if ROOM = 15 and VERB = "GO" and NOUN = "DOOR" and CURPIC = 9 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 15 and VERB = "U" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 15 and VERB = "JUMP" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 16 and OBJECT "CANDLE" CARRIED and VAR 5 = 0 then
+	VAR 5 = 1
+	print "YOU TRIP OVER RUG AND FALL.  OH,OH, YOU STARTED A FIRE WITH YOUR CANDLE!"
+	object FIRE (20) location = 16, (x,y) = (81,92)
+if ROOM = 16 and VERB = "POUR" and NOUN = "WATER" and OBJECT "PITCHER" CARRIED and OBJECT "FIRE" IN ROOM 16 then
+	object FIRE (20) location = 253
+	object HOLE (21) location = 16, (x,y) = (79,115)
+	print "THE FIRE IS OUT"
+	print "THE PITCHER IS EMPTY"
+	object PITCHER (15) location = 253
+	carry object PITCHER (14)
+if ROOM = 16 and OBJECT "FIRE" IN ROOM 16 then
+	print "THE FIRE IS OUT OF CONTROL.  YOU ARE DEAD"
+	replay game
+if ROOM = 16 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 28 then
+	set room images to 29
+	set room 17 images to 16
+if ROOM = 16 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 29 then
+	print "IT IS OPEN"
+if ROOM = 16 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 29 then
+	set room images to 28
+	set room 17 images to 15
+if ROOM = 16 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 28 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 16 and VERB = "GO" and NOUN = "DOOR" then
+	print "WHICH DIRECTION?"
+if ROOM = 16 and VERB = "N" and NOUN = "" then
+	goto room 3
+if ROOM = 16 and VERB = "S" and NOUN = "" and CURPIC = 29 then
+	goto room 17
+if ROOM = 16 and VERB = "S" and NOUN = "" and CURPIC = 28 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 16 and VERB = "GET" and NOUN = "RUG" then
+	print "IT IS TOO HEAVY"
+if ROOM = 16 and VERB = "GET" and NOUN = "TABLE" then
+	print "IT IS TOO HEAVY"
+if ROOM = 16 and VERB = "LIGHT" and NOUN = "LAMP" then
+	print "THERE IS NO WICK"
+if ROOM = 16 and VERB = "GET" and NOUN = "LAMP" then
+	print "IT IS FASTENED DOWN"
+if ROOM = 16 and VERB = "LOOK" and NOUN = "HOLE" then
+	set temp room view to 49
+if ROOM = 17 and VERB = "OPEN" and NOUN = "GATE" and CURPIC = 16 then
+	set room images to 17
+if ROOM = 17 and VERB = "OPEN" and NOUN = "GATE" then
+	set room images to 18
+if ROOM = 17 and VERB = "OPEN" and NOUN = "DOOR" and CURPIC = 18 then
+	set room images to 17
+	set room 16 images to 29
+if ROOM = 17 and VERB = "OPEN" and NOUN = "DOOR" then
+	set room images to 16
+	set room 16 images to 29
+if ROOM = 17 and VERB = "CLOSE" and NOUN = "GATE" and CURPIC = 17 then
+	set room images to 16
+if ROOM = 17 and VERB = "CLOSE" and NOUN = "GATE" then
+	set room images to 15
+if ROOM = 17 and VERB = "CLOSE" and NOUN = "DOOR" and CURPIC = 17 then
+	set room images to 18
+	set room 16 images to 28
+if ROOM = 17 and VERB = "CLOSE" and NOUN = "DOOR" then
+	set room images to 15
+	set room 16 images to 28
+if ROOM = 17 and VERB = "GO" and NOUN = "DOOR" and CURPIC = 16 then
+	goto room 16
+if ROOM = 17 and VERB = "GO" and NOUN = "DOOR" and CURPIC = 17 then
+	goto room 16
+if ROOM = 17 and VERB = "GO" and NOUN = "DOOR" and CURPIC = 15 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 17 and VERB = "GO" and NOUN = "DOOR" and CURPIC = 18 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 17 and VERB = "GO" and NOUN = "GATE" and CURPIC = 18 then
+	goto room 18
+if ROOM = 17 and VERB = "GO" and NOUN = "GATE" and CURPIC = 17 then
+	goto room 18
+if ROOM = 17 and VERB = "GO" and NOUN = "GATE" and CURPIC = 15 then
+	print "IT IS NOT OPEN"
+if ROOM = 17 and VERB = "GO" and NOUN = "GATE" and CURPIC = 16 then
+	print "IT IS NOT OPEN"
+if ROOM = 17 and VERB = "U" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 17 and VERB = "JUMP" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 17 and VERB = "LOOK" and NOUN = "BODY" then
+	print "IT IS SAM, THE MECHANIC.  HE HAS BEEN HIT IN THE HEAD BY A BLUNT OBJECT"
+if ROOM = 17 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 18 and VERB = "OPEN" and NOUN = "GATE" and CURPIC = 26 then
+	set room images to 27
+if ROOM = 18 and VERB = "OPEN" and NOUN = "GATE" then
+	print "IT IS OPEN"
+if ROOM = 18 and VERB = "CLOSE" and NOUN = "GATE" and CURPIC = 27 then
+	set room images to 26
+if ROOM = 18 and VERB = "CLOSE" and NOUN = "GATE" then
+	print "THE DOOR IS CLOSED"
+if ROOM = 18 and VERB = "GO" and NOUN = "GATE" and CURPIC = 27 then
+	goto room 17
+if ROOM = 18 and VERB = "GO" and NOUN = "GATE" then
+	print "THE DOOR IS CLOSED"
+if ROOM = 18 and VERB = "U" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 18 and VERB = "JUMP" and NOUN = "FENCE" then
+	print "IT IS TOO HIGH"
+if ROOM = 18 and VERB = "GET" and NOUN = "GRAVESTO" then
+	print "IT IS TOO HEAVY"
+if ROOM = 18 and VERB = "LOOK" and NOUN = "GRAVESTO" then
+	print "THE WRITING IS WORN DOWN"
+if ROOM = 18 and VERB = "READ" and NOUN = "GRAVESTO" then
+	print "THE WRITING IS WORN DOWN"
+if ROOM = 18 and VERB = "LOOK" and NOUN = "PERSON" then
+	print "IT IS JOE, THE GRAVEDIGGER.  HE HAS JUST FINISHED DIGGING THE SIX GRAVES"
+if ROOM = 18 and VERB = "LOOK" and NOUN = "JOE" then
+	print "IT IS JOE, THE GRAVEDIGGER.  HE HAS JUST FINISHED DIGGING THE SIX GRAVES"
+if ROOM = 18 and VERB = "TALK" and NOUN = "JOE" then
+	print "HE DOESN'T TALK MUCH"
+if ROOM = 18 and VERB = "TALK" and NOUN = "PERSON" then
+	print "HE DOESN'T TALK MUCH"
+if ROOM = 18 and VERB = "KILL" and NOUN = "PERSON" then
+	print "WITH WHAT?"
+if ROOM = 18 and VERB = "KILL" and NOUN = "JOE" then
+	print "WITH WHAT?"
+if ROOM = 18 and VERB = "WITH" and NOUN = "DAGGER" and OBJECT "DAGGER" CARRIED then
+	print "THERE IS A DEAD BODY HERE"
+	object X'S (27) location = 18
+	VAR 7 = 1
+if ROOM = 18 and VERB = "WITH" and NOUN = "DAGGER" then
+	print "YOU ARE NOT CARRYING IT"
+	object DOTS (26) location = 253
+if ROOM = 18 and VERB = "WITH" and NOUN = "GUN" and OBJECT "GUN" CARRIED and VAR 6 = 0 then
+	print "THERE IS A DEAD BODY HERE"
+	print "YOUR GUN IS EMPTY"
+	object X'S (27) location = 18
+	VAR 6 = 1
+	VAR 7 = 1
+if ROOM = 18 and VERB = "LOOK" and NOUN = "BODY" then
+	print "IT IS JOE, THE GRAVEDIGGER"
+if ROOM = 18 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 18 and VERB = "GET" and NOUN = "PERSON" then
+	print "I DON'T UNDERSTAND YOU"
+if ROOM = 18 and VERB = "GET" and NOUN = "JOE" then
+	print "I DON'T UNDERSTAND YOU"
+if ROOM = 18 and VERB = "GO" and NOUN = "GRAVES" and VAR 7 = 0 then
+	print "YOU FALL IN ONE AND JOE BURIES YOU.  YOU ARE DEAD"
+	object GRAVES (24) location = 18
+	replay game
+if ROOM = 18 and VERB = "GO" and NOUN = "GRAVES" then
+	print "YOU FALL IN ONE AND CLIMB OUT AGAIN"
+if ROOM = 18 and VERB = "GET" and NOUN = "SHOVEL" and VAR 7 = 0 then
+	print "JOE WON'T LET YOU"
+if ROOM = 18 and VERB = "GET" and NOUN = "SHOVEL" then
+	carry object SHOVEL (28)
+if ROOM = 19 and VERB = "U" and NOUN = "STAIRS" then
+	goto room 20
+if ROOM = 19 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 20
+if ROOM = 19 and VERB = "GO" and NOUN = "HOLE" and OBJECT "HOLE" IN ROOM 4 then
+	goto room 4
+if ROOM = 19 and VERB = "GO" and NOUN = "HOLE" then
+	print "YOU GO IN THE HOLE BUT CANNOT CONTINUE AND HAVE TO RETURN."
+if ROOM = 19 and VERB = "GET" and NOUN = "FOOD" then
+	print "IT DOES NOT REMOVE"
+if ROOM = 19 and VERB = "GET" and NOUN = "JARS" then
+	print "IT DOES NOT REMOVE"
+if ROOM = 19 and VERB = "GET" and NOUN = "BOXES" then
+	print "IT DOES NOT REMOVE"
+if ROOM = 20 and VERB = "U" and NOUN = "STAIRS" then
+	goto room 19
+if ROOM = 20 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 19
+if ROOM = 21 and VERB = "GO" and NOUN = "HOLE" then
+	goto room 22
+if ROOM = 21 and VERB = "U" and NOUN = "STAIRS" then
+	goto room 37
+if ROOM = 21 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 37
+if ROOM = 21 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 20
+if ROOM = 21 and VERB = "BREAK" and NOUN = "WALL" then
+	print "IT IS TOO HARD"
+if ROOM = 21 and VERB = "GET" and NOUN = "TABLE" then
+	print "IT IS TOO HEAVY"
+if ROOM = 21 and VERB = "GET" and NOUN = "ALGAE" then
+	print "I DON'T UNDERSTAND YOU"
+if ROOM = 21 and VERB = "WIPE" and NOUN = "ALGAE" and OBJECT "TOWEL" CARRIED and OBJECT "BRICKS" IN ROOM 253 then
+	print "THE WALL IS EXPOSED.  THERE IS A LOOSE BRICK"
+	object BRICKS (31) location = 21
+if ROOM = 21 and VERB = "WIPE" and NOUN = "ALGAE" and OBJECT "TOWEL" CARRIED then
+	print "OK"
+if ROOM = 21 and VERB = "WIPE" and NOUN = "ALGAE" then
+	print "YOU HAVE NOTHING TO WIPE IT WITH"
+if ROOM = 21 and VERB = "GET" and NOUN = "BRICKS" and OBJECT "BRICKS" IN ROOM 21 then
+	print "YOU HAVE FOUND THE JEWELS!"
+	take (NOUN)
+	object JEWELS (32) location = 21
+if ROOM = 21 and VERB = "LOOK" and NOUN = "BODY" then
+	print "IT IS TOM, THE PLUMBER.  HE SEEMS TO HAVE BEEN STABBED.  THERE IS A DAISY IN HIS HAND"
+if ROOM = 21 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 21 and VERB = "GET" and NOUN = "DAISY" then
+	print "I DON'T UNDERSTAND YOU"
+if ROOM = 21 and VERB = "LOOK" and NOUN = "TABLE" then
+	print "THERE IS A SKELETON KEY HERE"
+if ROOM = 21 and VERB = "LOOK" and NOUN = "BRICKS" then
+	print "IT IS LOOSE"
+if ROOM = 21 and VERB = "LOOK" and NOUN = "JEWELS" then
+	print "THEY ARE JEWELS, ALL RIGHT!"
+if ROOM = 22 and VERB = "GO" and NOUN = "HOLE" then
+	goto room 21
+if ROOM = 22 and VERB = "LOOK" and NOUN = "TUNNEL" then
+	print "IT IS VERY LONG"
+if ROOM = 23 and VERB = "U" and NOUN = "TREE" then
+	goto room 13
+if ROOM = 23 and VERB = "LOOK" and NOUN = "TELESCOP" then
+	set temp room view to 22
+	print "YOU ARE LOOKING THROUGH THE ATTIC WINDOW.  YOU SEE A TRAPDOOR IN THE ATTIC CEILING"
+	object TRAPDOOR (40) location = 39
+if ROOM = 23 and VERB = "GO" and NOUN = "HOUSE" then
+	print "YOU HAD BETTER CLIMB DOWN FIRST"
+if ROOM = 23 and VERB = "GET" and NOUN = "TELESCOP" then
+	print "IT IS FASTENED DOWN"
+if ROOM = 24 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 3
+if ROOM = 24 and VERB = "GO" and NOUN = "HALL" then
+	print "WHICH DIRECTION?"
+if ROOM = 24 and VERB = "GO" and NOUN = "DOOR" then
+	print "WHERE?"
+if ROOM = 24 and VERB = "LOOK" and NOUN = "DOOR" then
+	print "WHERE?"
+if ROOM = 24 and VERB = "LOOK" and NOUN = "HALL" then
+	print "WHICH DIRECTION?"
+if ROOM = 25 and VERB = "GO" and NOUN = "DOOR" and OBJECT "LINE" IN ROOM 26 then
+	print "A DAGGER IS THROWN AT YOU FROM OUTSIDE THE ROOM.  IT MISSES!"
+	goto room 26
+if ROOM = 25 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 26
+if ROOM = 26 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 25
+	object LINE (54) location = 253
+if ROOM = 26 and VERB = "GET" and NOUN = "DAGGER" then
+	object LINE (54) location = 253
+	take (NOUN)
+if ROOM = 26 and VERB = "GET" and NOUN = "BED" then
+	print "IT IS TOO HEAVY"
+if ROOM = 26 and VERB = "GET" and NOUN = "TRUNK" then
+	print "IT IS TOO HEAVY"
+if ROOM = 27 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 28
+if ROOM = 28 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 27
+if ROOM = 28 and VERB = "LOOK" and NOUN = "BODY" then
+	print "IT IS SALLY, THE SEAMSTRESS.  SHE HAS A LARGE LUMP ON HER HEAD.  THERE IS A BLOND HAIR ON HER DRESS"
+if ROOM = 28 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 28 and VERB = "GET" and NOUN = "BED" then
+	print "IT IS TOO HEAVY"
+if ROOM = 29 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 30
+if ROOM = 30 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 29
+if ROOM = 30 and VERB = "LOOK" and NOUN = "BODY" then
+	print "IT IS DR. GREEN.  IT APPEARS HE HAS BEEN STABBED"
+if ROOM = 30 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 30 and VERB = "GET" and NOUN = "CHAIR" then
+	print "IT IS TOO HEAVY"
+if ROOM = 30 and VERB = "GET" and NOUN = "TRUNK" then
+	print "IT IS TOO HEAVY"
+if ROOM = 30 and VERB = "GET" and NOUN = "CRADLE" then
+	print "IT IS TOO HEAVY"
+if ROOM = 31 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 32
+if ROOM = 32 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 31
+if ROOM = 32 and VERB = "GET" and NOUN = "BED" then
+	print "IT IS TOO HEAVY"
+if ROOM = 32 and VERB = "GET" and NOUN = "TRUNK" then
+	print "IT IS TOO HEAVY"
+if ROOM = 33 and VERB = "U" and NOUN = "STAIRS" then
+	goto room 39
+if ROOM = 33 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 39
+if ROOM = 34 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 35
+if ROOM = 35 and VERB = "GO" and NOUN = "DOOR" then
+	print "WHICH DIRECTION?"
+if ROOM = 35 and VERB = "LOOK" and NOUN = "PICTURE" then
+	print "ITS NICE BUT NOT EXACTLY MY CUP OF TEA. THANX FOR THE LOOK THOUGH."
+if ROOM = 35 and VERB = "GET" and NOUN = "TABLE" then
+	print "IT IS TOO HEAVY"
+if ROOM = 35 and VERB = "GET" and NOUN = "CHAIR" then
+	print "IT IS TOO HEAVY"
+if ROOM = 35 and VERB = "UNSCREW" and NOUN = "BOLTS" then
+	print "WITH WHAT?"
+if ROOM = 35 and VERB = "GET" and NOUN = "PICTURE" and VAR 8 = 1 then
+	take (NOUN)
+	object BUTTON (37) location = 35
+	print "THERE IS A BUTTON ON THE WALL"
+if ROOM = 35 and VERB = "GET" and NOUN = "PICTURE" then
+	print "IT IS FASTENED TO THE WALL WITH FOUR BOLTS"
+if ROOM = 35 and VERB = "WITH" and NOUN = "BUTTERKN" and OBJECT "BUTTERKN" CARRIED then
+	print "THE PICTURE IS LOOSE"
+	VAR 8 = 1
+if ROOM = 35 and VERB = "WITH" and NOUN = "BUTTERKN" then
+	print "YOU ARE NOT CARRYING IT"
+if ROOM = 35 and VERB = "PRESS" and NOUN = "BUTTON" and CURPIC = 41 then
+	set room images to 40
+if ROOM = 35 and VERB = "PRESS" and NOUN = "BUTTON" then
+	set room images to 41
+	print "PART OF THE WALL OPENS"
+if ROOM = 35 and VERB = "CLOSE" and NOUN = "WALL" then
+	set room images to 40
+if ROOM = 35 and VERB = "GO" and NOUN = "WALL" and CURPIC = 41 then
+	goto room 36
+	print "THE WALL CLOSES BEHIND YOU WITH A BANG"
+	set room 35 images to 40
+if ROOM = 36 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 37
+if ROOM = 36 and VERB = "OPEN" and NOUN = "WALL" then
+	print "IT WON'T OPEN"
+if ROOM = 36 and VERB = "BREAK" and NOUN = "WALL" then
+	print "IT IS TOO HARD"
+if ROOM = 37 and VERB = "GO" and NOUN = "STAIRS" then
+	print "WHICH DIRECTION?"
+if ROOM = 38 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 35
+if ROOM = 38 and VERB = "FAUCET" and NOUN = "ON" then
+	print "WATER IS RUNNING INTO THE SINK"
+	VAR 9 = 1
+if ROOM = 38 and VERB = "GET" and NOUN = "WATER" and VAR 9 = 1 and OBJECT "PITCHER" CARRIED then
+	print "YOUR PITCHER IS FULL"
+	object PITCHER (14) location = 253
+	carry object PITCHER (15)
+if ROOM = 38 and VERB = "GET" and NOUN = "WATER" and VAR 9 = 1 then
+	print "YOU HAVE NO CONTAINER"
+if ROOM = 38 and VERB = "GET" and NOUN = "WATER" then
+	print "I SEE NO WATER"
+if ROOM = 38 and VERB = "FAUCET" and NOUN = "OFF" then
+	VAR 9 = 0
+	print "OK"
+if ROOM = 38 and VERB = "FLUSH" and NOUN = "TOILET" then
+	print "OK"
+if ROOM = 38 and VERB = "LOOK" and NOUN = "BODY" then
+	print "IT IS BILL, THE BUTCHER. HE HAS BEEN STRANGLED WITH A PAIR OF PANTYHOSE"
+if ROOM = 38 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 38 and VERB = "GET" and NOUN = "SHOWER" then
+	print "THANK YOU. I LOVE TO FEEL CLEAN. THATS MUCH BETTER."
+if ROOM = 38 and VERB = "GO" and NOUN = "TOILET" then
+	print "THANX. THAT FEELS EVER SO MUCH BETTER"
+if ROOM = 39 and VERB = "HELP" and OBJECT "SLEDGEHA" IN ROOM 39 then
+	print "I THINK I SEE A SLEDGEHAMMER HERE."
+if ROOM = 39 and VERB = "GO" and NOUN = "STAIRS" then
+	goto room 33
+if ROOM = 39 and VERB = "OPEN" and NOUN = "TRAPDOOR" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	object TRAPDOOR (40) location = 253
+	object TRAPDOOR (41) location = 39
+if ROOM = 39 and VERB = "OPEN" and NOUN = "TRAPDOOR" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	print "IT IS OPEN"
+if ROOM = 39 and VERB = "OPEN" and NOUN = "TRAPDOOR" then
+	print "WHAT TRAPDOOR?"
+if ROOM = 39 and VERB = "CLOSE" and NOUN = "TRAPDOOR" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	object TRAPDOOR (41) location = 253
+	object TRAPDOOR (40) location = 39
+if ROOM = 39 and VERB = "CLOSE" and NOUN = "TRAPDOOR" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	print "THE DOOR IS CLOSED"
+if ROOM = 39 and VERB = "CLOSE" and NOUN = "TRAPDOOR" then
+	print "WHAT TRAPDOOR?"
+if ROOM = 39 and VERB = "GO" and NOUN = "TRAPDOOR" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	goto room 41
+if ROOM = 39 and VERB = "GO" and NOUN = "TRAPDOOR" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	print "IT IS NOT OPEN"
+if ROOM = 39 and VERB = "GO" and NOUN = "TRAPDOOR" then
+	print "WHAT TRAPDOOR?"
+if ROOM = 39 and VERB = "U" and NOUN = "LADDER" and OBJECT "TRAPDOOR" IN ROOM 39 then
+	goto room 41
+if ROOM = 39 and VERB = "U" and NOUN = "LADDER" then
+	print "YOU CLIMB UP BUMP YOUR HEAD ON THE CEILING AND FALL, DAZED BUT ALIVE."
+if ROOM = 39 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 40
+if ROOM = 39 and VERB = "LOOK" and NOUN = "WINDOW" then
+	print "YOU SEE A FOREST"
+if ROOM = 39 and VERB = "GET" and NOUN = "LADDER" then
+	print "IT DOES NOT REMOVE"
+if ROOM = 39 and VERB = "BREAK" and NOUN = "WINDOW" then
+	print "OK"
+if ROOM = 39 and VERB = "GO" and NOUN = "WINDOW" then
+	print "YOU FALL TO EARTH. LUCKILY YOU HAVE ONLY MINOR INJURIES."
+	print "UNFORTUNATELY THE AMBULANCE DRIVER SMASHS INTO A VOLKWAGEN. NO SURVIVORS. YOU ARE DEAD."
+	replay game
+if ROOM = 40 and VERB = "GO" and NOUN = "DOOR" then
+	goto room 39
+if ROOM = 40 and VERB = "GET" and NOUN = "BOXES" then
+	print "IT DOES NOT REMOVE"
+if ROOM = 40 and VERB = "GET" and NOUN = "TRUNK" then
+	print "IT IS TOO HEAVY"
+if ROOM = 40 and VERB = "OPEN" and NOUN = "TRUNK" and VAR 10 = 1 and OBJECT "TRUNK" IN ROOM 40 then
+	object TRUNK (43) location = 253
+	object TRUNK (44) location = 40
+if ROOM = 40 and VERB = "OPEN" and NOUN = "TRUNK" and VAR 10 = 1 then
+	print "IT IS LOCKED"
+if ROOM = 40 and VERB = "OPEN" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 then
+	print "IT IS OPEN"
+if ROOM = 40 and VERB = "OPEN" and NOUN = "TRUNK" then
+	print "IT IS LOCKED"
+if ROOM = 40 and VERB = "CLOSE" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 then
+	object TRUNK (44) location = 253
+	object TRUNK (43) location = 40
+if ROOM = 40 and VERB = "CLOSE" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 then
+	print "IT IS NOT OPEN"
+if ROOM = 40 and VERB = "LOOK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 then
+	set temp room view to 50
+if ROOM = 40 and VERB = "LOOK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 and VAR 10 = 0 then
+	print "IT IS LOCKED"
+if ROOM = 40 and VERB = "LOOK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 and VAR 10 = 1 then
+	print "IT IS NOT OPEN"
+if ROOM = 40 and VERB = "UNLOCK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 and OBJECT "KEY" CARRIED and VAR 10 = 0 then
+	print "OK"
+	VAR 10 = 1
+if ROOM = 40 and VERB = "UNLOCK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 and OBJECT "KEY" CARRIED and VAR 10 = 1 then
+	print "IT IS UNLOCKED"
+if ROOM = 40 and VERB = "UNLOCK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 and VAR 10 = 0 then
+	print "YOU HAVE NOTHING TO UNLOCK IT WITH"
+if ROOM = 40 and VERB = "UNLOCK" and NOUN = "TRUNK" and OBJECT "TRUNK" IN ROOM 40 and VAR 10 = 1 then
+	print "IT IS UNLOCKED"
+if ROOM = 40 and VERB = "GO" and NOUN = "WINDOW" then
+	print "YOU FALL TO EARTH. LUCKILY YOU HAVE ONLY MINOR INJURIES."
+	print "UNFORTUNATELY THE AMBULANCE DRIVER SMASHS INTO A VOLKWAGEN. NO SURVIVORS. YOU ARE DEAD."
+if ROOM = 41 and VERB = "GO" and NOUN = "TRAPDOOR" then
+	goto room 39
+if ROOM = 41 and VERB = "LOOK" and NOUN = "PERSON" and VAR 11 = 0 then
+	print "SHE IS GOING TO KILL YOU"
+if ROOM = 41 and VERB = "LOOK" and NOUN = "DAISY" and VAR 11 = 0 then
+	print "SHE IS GOING TO KILL YOU"
+if ROOM = 41 and VERB = "LOOK" and NOUN = "DAISY" then
+	print "SHE IS DEAD"
+if ROOM = 41 and VERB = "KILL" and NOUN = "DAISY" then
+	print "WITH WHAT?"
+if ROOM = 41 and VERB = "WITH" and NOUN = "DAGGER" and VAR 11 = 1 then
+	print "DAISY IS ALREADY DEAD"
+if ROOM = 41 and VERB = "WITH" and NOUN = "DAGGER" and OBJECT "DAGGER" CARRIED then
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "WITH" and NOUN = "DAGGER" then
+	print "YOU ARE NOT CARRYING IT"
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "WITH" and NOUN = "GUN" and VAR 6 = 0 and OBJECT "GUN" CARRIED then
+	object DOTS (47) location = 253
+	object X'S (48) location = 41
+	VAR 6 = 1
+	print "YOUR GUN IS EMPTY"
+	VAR 11 = 1
+	print "DAISY IS NOW DEAD"
+if ROOM = 41 and VERB = "WITH" and NOUN = "GUN" and VAR 11 = 1 then
+	print "DAISY IS ALREADY DEAD"
+if ROOM = 41 and VERB = "WITH" and NOUN = "GUN" and VAR 6 = 1 and OBJECT "GUN" CARRIED then
+	print "YOUR GUN IS EMPTY"
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "WITH" and NOUN = "GUN" then
+	print "YOU ARE NOT CARRYING IT"
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "GET" and NOUN = "BODY" then
+	print "IT IS TOO HEAVY"
+if ROOM = 41 and VERB = "WITH" and NOUN = "BUTTERKN" and OBJECT "BUTTERKN" CARRIED then
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "WITH" and NOUN = "BUTTERKN" then
+	print "YOU ARE NOT CARRYING IT"
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "WITH" and NOUN = "SLEDGEHA" and OBJECT "SLEDGEHA" CARRIED then
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "WITH" and NOUN = "SLEDGEHA" then
+	print "YOU ARE NOT CARRYING IT"
+	print "DAISY STABBED YOU.  YOU ARE DEAD"
+	replay game
+if ROOM = 41 and VERB = "GET" and NOUN = "NOTE" and VAR 11 = 0 then
+	print "DAISY WON'T LET YOU"
+if ROOM = 41 and VERB = "GET" and NOUN = "NOTE" then
+	print "OK"
+	take (NOUN)
+if ROOM = 41 and VERB = "GET" and NOUN = "KNIFE" then
+	print "I DON'T UNDERSTAND YOU"
+if ROOM = 41 and VERB = "LOOK" and NOUN = "BODY" then
+	print "SHE IS DEAD"
+if ROOM = 41 and VERB = "CLOSE" and NOUN = "TRAPDOOR" then
+	print "IT WONT CLOSE HERE"
+if VERB = "LOOK" and NOUN = "WINDOW" then
+	print "WINDOWS ARE BOARDED UP EXCEPT THE ATTIC WINDOW"
+if VERB = "LOOK" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	print "THERE IS WRITING ON IT"
+if VERB = "READ" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	set temp room view to 48
+if VERB = "LOOK" and NOUN = "ROOM" then
+	restore room view
+if VERB = "LIGHT" and NOUN = "MATCHES" and OBJECT "MATCHES" CARRIED then
+	VAR 3 = 4
+	normal image
+	print "OK"
+if VERB = "LIGHT" and NOUN = "MATCHES" then
+	print "YOU ARE NOT CARRYING IT"
+if VERB = "POUR" and NOUN = "WATER" and OBJECT "PITCHER" CARRIED then
+	object PITCHER (15) location = 253
+	carry object PITCHER (14)
+	print "THE PITCHER IS EMPTY"
+if VERB = "POUR" and NOUN = "WATER" then
+	print "I SEE NO WATER"
+if VERB = "LOOK" and NOUN = "TREE" and CURPIC = 20 then
+	print "THERE IS NOTHING SPECIAL"
+if VERB = "U" and NOUN = "TREE" and CURPIC = 20 then
+	print "THERE IS NOTHING SPECIAL"
+if VERB = "LIGHT" and NOUN = "CANDLE" and OBJECT "CANDLE" CARRIED and OBJECT "MATCHES" CARRIED then
+	object CANDLE (19) location = 253
+	carry object CANDLE (18)
+	normal image
+	print "OK"
+if VERB = "UNLIGHT" and NOUN = "CANDLE" and OBJECT "CANDLE" CARRIED then
+	object CANDLE (18) location = 253
+	carry object CANDLE (19)
+if VERB = "BREAK" and NOUN = "WINDOW" then
+	print "WINDOWS ARE BOARDED UP EXCEPT THE ATTIC WINDOW"
+if VERB = "GO" and NOUN = "WINDOW" then
+	print "WINDOWS ARE BOARDED UP EXCEPT THE ATTIC WINDOW"
+if VERB = "WITH" and NOUN = "GUN" and OBJECT "GUN" CARRIED and VAR 6 = 0 then
+	VAR 6 = 1
+	print "YOUR GUN IS NOW EMPTY"
+if VERB = "WITH" and NOUN = "GUN" and OBJECT "GUN" CARRIED then
+	VAR 6 = 1
+	print "YOUR GUN IS EMPTY"
+if VERB = "LOOK" and NOUN = "GUN" then
+	print "THERE IS ONE BULLET IN THE GUN"
+if VERB = "READ" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	set temp room view to 24
+if VERB = "READ" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	set temp room view to 36
+if VERB = "READ" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	set temp room view to 51
+if VERB = "N" and NOUN = "" then
+	go north
+if VERB = "S" and NOUN = "" then
+	go south
+if VERB = "E" and NOUN = "" then
+	go east
+if VERB = "W" and NOUN = "" then
+	go west
+if VERB = "U" and NOUN = "" then
+	go up
+if VERB = "D" and NOUN = "" then
+	go down
+if VERB = "GET" then
+	take (NOUN)
+if VERB = "DROP" then
+	drop (NOUN)
+if VERB = "LOOK" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	print "THERE IS WRITING ON IT"
+if VERB = "LOOK" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	print "THERE IS WRITING ON IT"
+if VERB = "LOOK" and NOUN = "NOTE" and OBJECT "NOTE" CARRIED then
+	print "THERE IS WRITING ON IT"
+if VERB = "LOOK" and NOUN = "NOTE" then
+	print "YOU DONT HAVE IT"
+if VERB = "READ" and NOUN = "NOTE" then
+	print "YOU DONT HAVE IT"
+if VERB = "SAVE" and NOUN = "GAME" then
+	save game
+if VERB = "DRINK" and NOUN = "WATER" and OBJECT "PITCHER" CARRIED then
+	print "OK"
+	object PITCHER (15) location = 253
+	carry object PITCHER (14)
+if VERB = "RESTORE" and NOUN = "GAME" then
+	load game
+if VERB = "QUIT" and NOUN = "" then
+	replay game
+if VERB = "HELP" and CURPIC = 20 then
+	print "IF ONLY I COULD TELL IF I'D BEEN HERE BEFORE..."
+if VERB = "HELP" then
+	print "TRY GOING IN SOME DIRECTION EX:NORTH,SOUTH,EAST,WEST,UP,DOWN"
+if VERB = "LOOK" then
+	print "THERE IS NOTHING SPECIAL"
+if VERB = "INVENTOR" and NOUN = "" then
+	inventory
+if VERB = "FUCK" then
+	print "IF YOU FEEL THAT WAY I REFUSE TO PLAY WITH YOU..."
+	exit to BASIC
+if VERB = "LIGHT" and NOUN = "CANDLE" and OBJECT "MATCHES" CARRIED then
+	print "YOU DON'T HAVE IT"
+if VERB = "LIGHT" and NOUN = "CANDLE" then
+	print "YOU HAVE NOTHING TO LIGHT IT WITH"
+if VERB = "SLEEP" then
+	print "I FEEL MUCH MORE RESTED NOW"
+LOWPRI
+if VAR 3 = 1 then
+	print "THE MATCH WENT OUT"
+if VAR 3 = 0 then
+	VAR 3 = 1
+if true then
+	VAR 3 -= 1
+if TURN >= 36 and VAR 3 = 0 then
+	blank image
+if OBJECT "CANDLE" IN ROOM 253 and VAR 3 = 0 and TURN >= 36 then
+	print "IT IS DARK, YOU CAN'T SEE"
+if OBJECT "CANDLE" CARRIED then
+	normal image
+if VERB = "DROP" then
+	restore room view
+if TURN >= 20 and VAR 16 = 0 then
+	print "IT IS GETTING DARK"
+if TURN >= 35 then
+	VAR 16 = 1
+if ROOM = 1 and OBJECT "JEWELS" CARRIED and VAR 11 = 1 then
+	print "CONGRATULATIONS YOU HAVE BEATEN ADVENTURE AND ARE DECLARED A GURU WIZARD"
+	replay game
